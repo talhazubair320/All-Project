@@ -1,0 +1,30 @@
+#i1{
+  width: 550px;
+  height: 150px;
+  background-color: red;
+  border-radius: 20px;
+  position: relative;
+  left: 500px;
+  top: 200px;
+}
+#i2{
+  border-radius: 20px;
+  position: relative;
+  left: 20px;
+  top: 60px;
+}
+#i3{
+  border-radius: 20px;
+  position: relative;
+  left: 350px;
+}
+#i4{
+  position: relative;
+  left: 230px;
+  top: 33px;
+}
+#i5{
+  position: relative;
+  top: 50px;
+  left: 70px;
+}
