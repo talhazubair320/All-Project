@@ -1,0 +1,207 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    background-color:rgba(0,0,0,0.5 );
+    top: 0px;
+}
+.wrap-container{
+    width: 80%;
+    margin: 0px auto;
+}
+.brand-image{
+    width: 180px;
+    height: 40px;
+    padding: 10px 0px;
+}
+.menu ul li{
+    list-style: none;
+    display: inline;
+    color:red;
+    font-size: 18px;
+    padding: 20px;
+    line-height: 0.5;
+}
+.menu ul li:hover{
+    background-color: rgba(0,0, 0, 0.5);
+}
+.menu ul a{
+    text-decoration: none;
+}
+.header-image{
+    float: left;
+}
+.menu{
+    float: right;
+}
+
+
+
+/* image start */
+.wrapper-contant{
+    background-image: url(image/contant.jpg) ;
+    height: 350px;
+}
+/* image end */
+
+/* program start */
+
+.choose-program{
+    width: 100%;
+    height: auto;
+    margin-top: -1.4rem;
+    margin: auto;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+h1,h6{
+    text-align: center;
+}
+.a1{
+    display: flex;
+}
+.img1{
+    font-size: medium;
+}
+.main{
+    margin: auto;
+}
+.hp1{
+    margin-top: 15px;
+    margin-left: 10px;   
+    margin-bottom: 5%;
+}
+/* program end */
+
+/* beging start */
+
+.being{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+    width: 100%;
+    height: auto;
+    background-repeat: none;
+    background-size: cover;
+    margin-top: -20px;
+}
+.button-begin{
+background-color: red;
+color: white;
+margin-left: 43%;
+margin-bottom: 3%;
+}
+
+/* beging end */
+
+
+/* our classes */
+
+    .img{
+        margin-top: 10px;
+    }
+    .our-classes{
+        width: 100%;
+        height: auto;
+        background-image: linear-gradient(red, yellow);
+        
+    }
+
+    .image-button{
+        border-style: solid;
+        color:black ;
+        width:30%;
+        height: 50px;
+        background-color: red;
+    }
+    .classes{
+        text-align: center;
+    }
+    .first{
+        border-style: solid;
+        color:black ;
+        width: 50%;
+        height: 100px;
+        margin: auto;    
+
+    }
+    
+    .second{
+        border-style: solid;
+        color:black ;
+        width: 50%;
+        height: 100px;
+        margin: auto;
+    }
+    
+    .three{
+        border-style: solid;
+        color:black ;
+        width: 50%;
+        height: 100px;
+        margin: auto;
+    }
+    
+    .button{
+        border-style: solid;
+        color:black ;
+        width:40%;
+        height: 80px;
+        background-color: red;
+        margin-left:10rem ;
+    }
+    
+    /* our classes end */
+
+
+
+
+    
+/* table start */
+
+.table{
+    background-image: linear-gradient(red, pink);
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 2rem;
+    color: white;
+}
+table, th, td {
+    border: 2px solid red;
+    border-collapse: collapse;
+    margin: auto;
+  }
+  th, td {
+    padding: 30px;
+    text-align: left;   
+  }
+
+
+/* table end */
+
+
+
+
+/* card start */
+.expert{
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(red, yellow);
+    margin-top: -2rem;
+    text-align: center;
+}
+
+/* card end */
+
+
+/* map start */
+.map{
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(pink , brown);    
+}
+
+/* map end */
