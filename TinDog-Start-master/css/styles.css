@@ -1,0 +1,101 @@
+body{
+  overflow-x: hidden;
+}
+#title .color-section{
+  background-color: #ff4c68;
+}
+#title .container-fluid{
+  background-color: #ff4c68;
+  color: white;
+  padding: 3% 15% 7%;
+text-align: center;
+}
+#i1{
+  padding-bottom: 5%;
+}
+#i2{
+  color: white;
+  font-weight: bolder;
+  font-size: 25px;
+}
+#i3{
+  color: white;
+  margin: 20px;
+}
+#i4{
+  margin: 40px;
+  line-height: 80px;
+  text-align: left;
+  position: relative;
+  left: -30px;
+  top: -50px;
+}
+#i5{
+  margin: 10px;
+  position: relative;
+  float: left;
+  top: -50px;
+}
+#i6{
+  position: static;
+  transform: rotate(25deg);
+}
+#features {
+  background-color: pink;
+}
+#features .container{
+  text-align:center;
+  padding: 7% 10% 7%;
+
+}
+#testimonials{
+  background-color: #ff4c68;
+}
+#testimonials .container{
+  padding-top:10%;
+  padding-bottom: 10%;
+  line-height: 50px;
+  text-align: center;
+}
+#i7{
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+}
+#press{
+  background-color: #ff4c68;
+}
+#pricing{
+  background-color: #faf5ef;
+}
+#pricing .container{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+#cta{
+  background-color: #ff4c68;
+}
+#cta .container{
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+#i8{
+  position: relative;
+  top: 50px;
+  margin: 5px;
+}
+#footer{
+  background-color: #faf5ef;
+}
+#footer .container{
+  text-align: center;
+  padding-top: 10%;
+  padding-bottom: 5%;
+}
+#i9{
+  font-size: 20px;
+  margin: 10px;
+}
